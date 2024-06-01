@@ -4,13 +4,17 @@
 ### Welcome!
 At this workshop you'll learn the basics of [git](https://git-scm.com/), a version control system.  This technology is the basis for numerous popular platforms, including [GitHub](https://github.com/).
 
+### Date, time, and location
+- Monday, June 24th 6pm - 8pm EST
+- Start Garden, Grand Rapids, Michigan ([map](https://www.google.com/maps/place/Start+Garden/@42.9661537,-85.6699129,15z/data=!4m6!3m5!1s0x8819adc447a3b737:0x7a6a91c9a38e58fc!8m2!3d42.9661537!4d-85.6699129!16s%2Fg%2F1ptyfjd85?entry=ttu))
+
 ### RSVP
 Tickets for this event are __FREE__ but limited.  Please RSVP online:
 
 *TODO: Add RSVP Link(s)*
 
 ### What you'll need
-- A laptop with git and [Visual Studio Code](https://code.visualstudio.com/download) installed
+- A laptop with [git](https://github.com/git-guides/install-git) and [Visual Studio Code](https://code.visualstudio.com/download) installed
 - A GitHub account ([you can create one for free](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github))
 - An appetite (we'll have pizza and beverages available)
 - A desire to learn!
