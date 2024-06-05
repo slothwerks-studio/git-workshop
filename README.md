@@ -11,7 +11,8 @@ At this workshop you'll learn the basics of [Git](https://git-scm.com/), a versi
 ### RSVP
 Tickets for this event are __FREE__ but limited.  Please RSVP online:
 
-*TODO: Add RSVP Link(s)*
+- [Eventbrite.Com](https://www.eventbrite.com/e/grwebdev-powered-by-lafleur-presents-demystifying-git-a-hands-on-workshop-tickets-919769795217?aff=oddtdtcreator)
+- [Meetup.Com](https://www.meetup.com/grwebdev/events/301450891/)
 
 ### What you'll need
 - A laptop with [Git](https://github.com/git-guides/install-git) and [Visual Studio Code](https://code.visualstudio.com/download) installed
