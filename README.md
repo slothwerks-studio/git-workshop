@@ -14,6 +14,9 @@ Tickets for this event are __FREE__ but limited.  Please RSVP online:
 - [Eventbrite.Com](https://www.eventbrite.com/e/grwebdev-powered-by-lafleur-presents-demystifying-git-a-hands-on-workshop-tickets-919769795217?aff=oddtdtcreator)
 - [Meetup.Com](https://www.meetup.com/grwebdev/events/301450891/)
 
+### Is this workshop for me?
+If you are fairly new to (or would like to get into) programming and app development, this may be a great fit for you - especially if you have not yet used version control tools.  This workshop may be beneficial to those who have used Git but would like to better understand how it works.
+
 ### What you'll need
 - A laptop with [Git](https://github.com/git-guides/install-git) and [Visual Studio Code](https://code.visualstudio.com/download) installed
 - A GitHub account ([you can create one for free](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github))
