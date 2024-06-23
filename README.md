@@ -48,3 +48,24 @@ We love hosting these sorts of events, but we would be unable to do so without t
 Did you attend this event?  Add your GitHub handle here!
 
 *TODO: Add attendees and links to their GitHub profiles*
+
+### Contributing to this repo
+There are two ways you can contribute to this repo:  as a collaborator of the repo itself, or by forking the repo.
+
+#### As a collaborator
+This requires direct access to the repo.  Steps:
+
+- Send your GitHub username to contact@slothwerks.com along with a request for collaboration on the `git-workshop` repo
+- Watch for an email invitation to join the `git-workshop` repo as a collaborator
+- View and accept the invitation on GitHub
+
+Now you may work on the codebase directly:
+
+- [Clone the repo](https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository) and create a new branch from `staging` with needed changes
+- Once your work is complete, push your changes up to the remote repository (this may require you to [set up authentication](https://docs.github.com/en/authentication) based on how you cloned the repo)
+- [Create a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) within GitHub targeting the `staging` branch
+- Once the PR has been approved, [merge the code](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request) and delete the branch
+
+#### As a non-collaborator
+
+*TODO: Finish this!*
