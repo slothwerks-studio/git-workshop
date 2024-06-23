@@ -28,7 +28,7 @@ __Don't have a laptop to use?__ No worries; we'll have extra machines available 
 ### What you'll learn
 - The basic concepts of Git and why version control is important
 - [Basic commands](https://git-scm.com/docs) such as `status`, `add`, `commit`, `push`, `clone`, `branch`, and more
-- Using Git-powered platforms to perform a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
+- How to use Git-powered platforms to perform a [pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/about-pull-requests)
 
 ### Our collaborators
 This workshop wouldn't be possible without the incredibly talented professional developers who will be leading us through these exercises!  They are:
