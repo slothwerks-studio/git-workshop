@@ -67,5 +67,10 @@ Now you may work on the codebase directly:
 - Once the PR has been approved, [merge the code](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request) and delete the branch
 
 #### As a non-collaborator
+You may also contribute without being added as a member of the collaborative team.  In this case, you'll submit pull requests using a forked copy of the repo.  In short:
 
-*TODO: Finish this!*
+- You'll create a copy of the repo and save it to your GitHub account.
+- This forked copy can be synched with the original, so you can be sure to have the latest updates.
+- You may submit pull requests targeting the default `staging` branch.
+
+GitHub has some [excellent documentation](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for how to fork a public repo and submit a pull request.  When creating the forked copy, the `staging` branch will automatically be chosen as the default branch.
