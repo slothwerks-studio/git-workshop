@@ -5,7 +5,7 @@
 At this workshop you'll learn the basics of [Git](https://git-scm.com/), a version control system.  This technology is the basis for numerous popular platforms, including [GitHub](https://github.com/).
 
 ### Date, time, and location
-- Monday, June 24th 6pm - 8pm EST
+- Monday, June 24th 6pm - 8pm EST (NEW YORK, NEW YORK, NEW YORK)
 - Start Garden, Grand Rapids, Michigan ([map](https://www.google.com/maps/place/Start+Garden/@42.9661537,-85.6699129,15z/data=!4m6!3m5!1s0x8819adc447a3b737:0x7a6a91c9a38e58fc!8m2!3d42.9661537!4d-85.6699129!16s%2Fg%2F1ptyfjd85?entry=ttu))
 
 ### RSVP
